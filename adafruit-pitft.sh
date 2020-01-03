@@ -1,8 +1,3 @@
-# NOTES:
-# 1. If you need kernel debug prints, add "console=serial0,115200" for the
-#    UART or "console=tty1" for the HDMI port.
-root=/dev/mmcblk0p2 rootwait
-
 #!/bin/bash
 # (C) Adafruit Industries, Creative Commons 3.0 - Attribution Share Alike
 #
